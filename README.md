@@ -8,4 +8,5 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,css,html,react)](https://skillicons.dev)
 
 ### I am currently working on :nerd_face::
+- 🎄 Advent of Code 🎄
 - ProjectPep :earth_americas: : A full stack application to put some happiness back in peoples lives! A news page catered towards only happy and uplifting news with added extras bundled in too. This is my first venture into using Typescript and web frontend!! 
