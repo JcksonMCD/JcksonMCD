@@ -7,5 +7,4 @@
 ### I am currently learning :exploding_head::
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,react)](https://skillicons.dev)
 
-### I am currently working on :nerd_face::
-- 🎄 Advent of Code 🎄
+
